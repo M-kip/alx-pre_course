@@ -1,1 +1,1 @@
-my first read me
+Updated read me file for pull request clarification
